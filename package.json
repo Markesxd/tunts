@@ -1,0 +1,14 @@
+{
+  "name": "tunts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Markesxd/tunts",
+  "author": "Rafael <markesxd@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node aplication.js"
+  },
+  "dependencies": {
+    "googleapis": "^87.0.0"
+  }
+}
